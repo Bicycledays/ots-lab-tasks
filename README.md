@@ -1,7 +1,7 @@
 # Цель проекта
-Привет! Перед тобой небольшое CRUD приложение, написанное на Vue.js в рамках тестового задания к собеседованию в компанию OTS-Lab
+Привет! Перед тобой небольшое CRUD приложение, написанное на Vue.js с целью ознакомления с фреймворком
 
-[Требования к проекту и формулировка задания](https://drive.google.com/drive/folders/1L5QrjTZfdCnLCeuyGNCOD5riqgaGYDEr?usp=sharing)
+[Постановка задачи](https://drive.google.com/drive/folders/1L5QrjTZfdCnLCeuyGNCOD5riqgaGYDEr?usp=sharing)
 
 ### Загрузка проекта через cmd
 ```
